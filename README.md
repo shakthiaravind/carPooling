@@ -14,12 +14,10 @@
 
 For ease of programming, a simple map with 9 junctions is used. The map is available as an image in the repository as `map.png`. Users can only travel horizontally or vertically on this map.
 
-## Installation
+## Usage
 
 1. Download the `car_pool.cpp` file from the repository.
 2. Ensure you have a C++ compiler installed (e.g., Clang).
-
-## Usage
 
 To compile and run the program, use the following commands:
 
